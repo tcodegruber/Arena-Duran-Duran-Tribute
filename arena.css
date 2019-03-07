@@ -1,0 +1,9 @@
+@charset "utf-8";
+.showsheader {
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.nav {
+	word-spacing: 75px;
+}
