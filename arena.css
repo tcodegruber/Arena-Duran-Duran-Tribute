@@ -5,7 +5,11 @@
 	color: #FFFFFF;
 }
 .shows {
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: bold;
 	color: #FFFFFF;
+}
+.copyright {
+	font-size: 12px;
+	color: #FF0000;
 }
