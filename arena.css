@@ -14,5 +14,27 @@
 	color: #FF0000;
 }
 .nav {
-	word-spacing: 15px;
+	word-spacing: 12px;
+}
+.about {
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.name {
+	font-size: 20px;
+	color: #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+}
+.as {
+	font-size: 24px;
+	color: #FFFFFF;
+}
+.aboutText {
+	font-size: 20px;
+	color: #FFFFFF;
 }
