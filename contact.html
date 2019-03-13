@@ -49,44 +49,39 @@ body {
         <td colspan="2" bgcolor="#000000" class="mainText"><div align="center" class="nav"><a href="index.html">HOME</a> | <a href="about.html">ABOUT</a> | <a href="images.html">IMAGES</a> | <a href="video.html">VIDEO</a> | <a href="songlist.html">SONGLIST</a> | <a href="contact.html">CONTACT</a></div></td>
       </tr>
       <tr>
-        <td height="866" align="center" valign="top"><p>&nbsp;</p>
+        <td height="708" align="center" valign="top"><p>&nbsp;</p>
           <p class="about">&nbsp;</p>
           <p class="about">&nbsp;</p></td>
         <td align="center" valign="top"><p align="center" class="about"><br />
             <span class="shows">Contact AREA!</span></p>
+          <p align="center" class="about">&nbsp;</p>
           <p align="center" class="shows">Tommy Gruber</p>
-          <p align="center" class="shows">805-501-9572</p>
           <p align="center" class="shows"><a href="mailto:tommy@mztributebands.com" target="_blank">tommy@mztributebands.com</a></p>
-          <p align="center" class="shows">&nbsp;</p>
-          <p align="center" class="shows"><form id="eClub" name="eClub" method="post" action="FormToEmail.php">
-          <label>
-          <div align="center">Name</div>
-          </label>
-          <div align="center">
-              <input name="Name" type="text" /><br />
-              <br/>
-          </div>
-          <label>
-          <div align="center">Email</div>
-          </label>
-          <div align="center">
-              <input name="Email" type="text" /><br />
-              <br/>
-          </div>
-          <label>
-          <div align="center">Comments</div>
-          </label>
-          <div align="center">
-              <textarea name="Comments" cols="50"></textarea>
-              <br/>
-              <br/>
-              <input name="Submit" type="submit" value="Submit" id="Submit" />
-          </div>
-          </form>&nbsp;</p>
-          <p align="center">&nbsp;</p>
-          <p align="center"><br />
-          </p>
-          <blockquote>&nbsp;</blockquote></td>
+          <form method=POST action="mailto:tommy@mztributebands.com" enctype="text/plain">
+    <label for="name" class="shows">Name:</label>
+    <br />
+    <br>
+    <input type="text" name="Name" id="name" value="">
+    <br />
+    <br>
+    <label for="email" class="shows">Email:</label>
+    <br />
+    <br>
+    <input type="email" name="email" id="email" value="">
+    <br />
+    <br>
+    
+   <label for="name" class="shows">Comments:</label>
+    <br />
+    <br>
+    <input type="text" name="Comments" id="Comments" value="">
+    
+    <br />
+    <br />
+    <br />
+    <br>
+          <input type="submit" name="Submit" />
+          </form> </td>
         </tr>
       <tr>
         <td colspan="2" class="copyright"><div align="center">Copyright 2018 ARENA INC. ALL RIGHTS RESERVED</div></td>
