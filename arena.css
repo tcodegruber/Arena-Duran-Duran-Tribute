@@ -24,7 +24,7 @@
 }
 .name {
 	font-size: 20px;
-	color: #FF0000;
+	color: #FFFFFF;
 	font-family: "Times New Roman", Times, serif;
 	font-weight: bold;
 	font-style: normal;
@@ -32,9 +32,13 @@
 }
 .as {
 	font-size: 24px;
-	color: #FFFFFF;
+	color: #FF0000;
 }
 .aboutText {
 	font-size: 20px;
+	color: #FFFFFF;
+}
+.shows_text {
+	font-size: 16px;
 	color: #FFFFFF;
 }
