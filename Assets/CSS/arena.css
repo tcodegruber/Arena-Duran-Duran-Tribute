@@ -9,11 +9,11 @@ background-color:black;
 }
 
 .showsheader {
-	font-size: 20px;
+	font-size: 21px;
 	font-weight: bold;
 	color:white;
 	text-align:center;
-	margin-top:1%;
+	margin-top:2%;
 }
 
 .showstext {
@@ -84,8 +84,15 @@ background-color:black;
 }
 
 .contacttext {
-	font-size: 16px;
+	font-size: 18px;
 	color:white;
 	text-align:center;
-	
+	margin-top:1%;
+	margin-bottom:1%;
+}
+
+.cards {
+	background-position:center;
+	text-align:left;
+	margin-top:4%;
 }
