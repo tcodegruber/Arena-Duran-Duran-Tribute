@@ -4,23 +4,27 @@ background-size: cover;
 
 .socials {
 height: 65px;
-margin-left: 25%;
+margin-left: 1%;
 }
 
 .whiteBG {
 	background-color: white;
 }
 
-.aboutImg {
-	margin-top: 8%;
+.aboutHeader {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	text-align:center;
+	background-color: rgb(228, 125, 7);
 }
 
 .mainHeader {
 	font-size: 32px;
 	font-weight: bold;
-	color:coral;
+	color: white;
 	text-align:center;
-	background-color: white;
+	background-color: rgb(228, 125, 7);
 }
 
 .mediaHeader {
@@ -32,20 +36,31 @@ margin-left: 25%;
 
 .showstext {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 16px;
+	font-size: 20px;
 	color: black;
 	text-align: center;
 	background-color: white;
 }
 
+.showsHeader {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: darkred;
+	text-align: center;
+}
 
 .aboutText {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 18px;
+	font-size: 20px;
 	color:black;
 	text-align: left;
 	margin-top:1%;
+}
 
+.aboutImg {
+	margin-top: 8%;
+	width: 90%;
 }
 
 .videoimg {
