@@ -1,0 +1,72 @@
+.bodyIMG {
+background-size: repeat;
+}
+
+.socials {
+height: 65px;
+margin-left: 25%;
+}
+
+.whiteBG {
+	background-color: white;
+}
+
+.aboutImg {
+	margin-top: 8%;
+}
+
+.mainHeader {
+	font-size: 32px;
+	font-weight: bold;
+	color:coral;
+	text-align:center;
+	background-color: white;
+}
+
+.mediaHeader {
+	font-size: 32px;
+	font-weight: bold;
+	color:white;
+	text-align:center;
+}
+
+.showstext {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: black;
+	text-align: center;
+	background-color: white;
+}
+
+
+.aboutText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color:black;
+	text-align: left;
+	margin-top:1%;
+
+}
+
+.videoimg {
+	background-position: center;
+	margin-top: 4%;
+}
+
+.contactImg {
+	margin-left: 31%;
+	margin-bottom: 5%;
+}
+
+.contactText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color:black;
+	text-align: center;
+
+}
+
+.cards {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+}
