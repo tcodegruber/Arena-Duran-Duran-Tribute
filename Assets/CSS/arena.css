@@ -1,5 +1,7 @@
-.bodyIMG {
+.mediaBG {
 background-size: cover;
+background-position: center; /* This centers the image within the container */
+background-repeat: no-repeat; /* Prevents the image from repeating */
 }
 
 .socials {
@@ -91,3 +93,4 @@ margin-top: 5%;
 margin-left: 70%;
 background-color: black;
 }
+
