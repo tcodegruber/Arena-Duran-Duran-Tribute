@@ -1,15 +1,9 @@
-.mediaBG {
-background-size: cover;
-background-position: center; /* This centers the image within the container */
-background-repeat: no-repeat; /* Prevents the image from repeating */
-}
-
 .socials {
 height: 65px;
 margin-left: 1%;
 }
 
-.Header {
+.mainHeader {
 	font-size: 32px;
 	font-weight: bold;
 	color:red;
