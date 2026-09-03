@@ -9,30 +9,10 @@ height: 65px;
 margin-left: 1%;
 }
 
-.whiteBG {
-	background-color: white;
-}
-
-.aboutHeader {
+.Header {
 	font-size: 32px;
 	font-weight: bold;
-	color: white;
-	text-align:center;
-	background-color: rgb(228, 125, 7);
-}
-
-.mainHeader {
-	font-size: 32px;
-	font-weight: bold;
-	color: white;
-	text-align:center;
-	background-color: rgb(228, 125, 7);
-}
-
-.mediaHeader {
-	font-size: 32px;
-	font-weight: bold;
-	color:white;
+	color:red;
 	text-align:center;
 }
 
@@ -41,16 +21,8 @@ margin-left: 1%;
 	font-size: 20px;
 	color: black;
 	text-align: center;
-	background-color: white;
 }
 
-.showsHeader {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 28px;
-	font-weight: bold;
-	color: darkred;
-	text-align: center;
-}
 
 .aboutText {
 	font-family: "Times New Roman", Times, serif;
@@ -70,27 +42,5 @@ margin-left: 1%;
 	margin-top: 4%;
 }
 
-.contactImg {
-	margin-left: 31%;
-	margin-bottom: 5%;
-}
 
-.contactText {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 18px;
-	color:black;
-	text-align: center;
-
-}
-
-.cards {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 15px;
-}
-
-.galleryIMG {
-margin-top: 5%;
-margin-left: 70%;
-background-color: black;
-}
 
